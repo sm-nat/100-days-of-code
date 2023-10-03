@@ -14,8 +14,16 @@ todavia me falta averiguar como hacer el log jeje.
 Hora actual *02:53 AM*. 
 
 
-#R1D1. 
+# R1D1. 
 Hoy es my segundo dia pero numerado como 1, ya hice mi post en *twitter* y vi que tengo 2 followers! me gusta lo que estoy aprendiendo, veo que cada dia se me va haciendo un poco mas entendible.  
 
 + Hoy hice el segundo proyecto de Responsive Web Design Certification *In this course, you'll learn CSS by designing a menu page for a cafe webpage.*
-+ y sigo aprendiendo javascript para el bootcamp
++ y sigo aprendiendo javascript para el bootcamp. 
+
+
+# R1D2. 
+
++ hoy aprendi las diferentes formas de especificar los colores en CSS. 
++ en el bootcamp comenzamos a ver js, y he leido info sobre variables y loops.  
+
+he tenido dolor de cabeza todo el dia asi que no estudie tanto como queria :/
