@@ -26,4 +26,11 @@ Hoy es my segundo dia pero numerado como 1, ya hice mi post en *twitter* y vi qu
 + hoy aprendi las diferentes formas de especificar los colores en CSS. 
 + en el bootcamp comenzamos a ver js, y he leido info sobre variables y loops.  
 
-he tenido dolor de cabeza todo el dia asi que no estudie tanto como queria :/
+he tenido dolor de cabeza todo el dia asi que no estudie tanto como queria :/. 
+
+
+# R1D3. 
+
++ Hoy trabaje en el generador de dominios con js, y estudie los loops y arrays del bootcamp. 
+siento que entiendo la logica de los loops pero cuando tengo que comenzar uno me estanco, creo que voy por buen camino y que con la practica se me va a hacer mas facil. 
+
