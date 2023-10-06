@@ -33,4 +33,18 @@ he tenido dolor de cabeza todo el dia asi que no estudie tanto como queria :/.
 
 + Hoy trabaje en el generador de dominios con js, y estudie los loops y arrays del bootcamp. 
 siento que entiendo la logica de los loops pero cuando tengo que comenzar uno me estanco, creo que voy por buen camino y que con la practica se me va a hacer mas facil. 
++ quiero aprender a usar bien la linea de comandos. 
+
+
+# R1D4. 
+
++ sigo con los ejercicios de arrays y loops del bootcamp, entiendo la logica y los puedo leer bien pero cuando los tengo que implementar desde 0 me complico mucho y no avanzo.   
++ me siento estancada en este paso, hago los ejercicios pero no los integro completamente a mi logica y me estreso :/ el dolor de cabeza se ha hecho recurrente y creo que es por la frustracion.  
+
+
+# R1D5. 
+
++ ** hoy fue un dia lento** hice ejercicios de loops en js pero no avance mucho, el sindrome del impostor tomo la batuta hoy ....pero como dijo la bichota **yo se que mañana sera mas bonito, diferente, otra vibra...**. 
+
+###### NO ME VOY A DESMOTIVAR ######
 
