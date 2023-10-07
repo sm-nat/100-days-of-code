@@ -46,5 +46,14 @@ siento que entiendo la logica de los loops pero cuando tengo que comenzar uno me
 
 + ** hoy fue un dia lento** hice ejercicios de loops en js pero no avance mucho, el sindrome del impostor tomo la batuta hoy ....pero como dijo la bichota **yo se que mañana sera mas bonito, diferente, otra vibra...**. 
 
-###### NO ME VOY A DESMOTIVAR ######
+###### NO ME VOY A DESMOTIVAR ######. 
+
+
+# R1D6. 
+
++ sigo con las practicas de loops y arrays. 
++ hoy aprendimos sobre el DOM, es interesante pero hay tantos nombres!!  
+**Vamos que se puede Natita**
+
+
 
