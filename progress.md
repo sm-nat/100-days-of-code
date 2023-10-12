@@ -53,7 +53,22 @@ siento que entiendo la logica de los loops pero cuando tengo que comenzar uno me
 
 + sigo con las practicas de loops y arrays. 
 + hoy aprendimos sobre el DOM, es interesante pero hay tantos nombres!!  
-**Vamos que se puede Natita**
+**Vamos que se puede Natita**. 
+
+
+# R1D7. 
+
++ me frustro cuando siento que no lo estoy logrando, hoy me paso eso....fue un dia pesado y mi animo cayó. 
++ sigo practicando con j.s, me cuesta pero creo que lo entiendo. 
++ **este log lo estoy haciendo con 2 dias de retraso, no me siento feliz de haber dejado el proyecto de lado...pero he vuelto. 
+
+
+# R1D8. 
+
++ hoy hice un proyecto para el bootcamp se llama el generador de cartas random, le estoy tomando agilidad a la cosa.  
++ y sigo con los ejercicios de freecodecamp. 
+
+###### LO VOY A LOGRAR!!
 
 
 
