@@ -85,6 +85,17 @@ siento que entiendo la logica de los loops pero cuando tengo que comenzar uno me
 + continuo con js creo que las funciones y bucles ya las manejo, pero no suelto el chatgpt para que me guie, comenzare a soltarlo de a poco. 
 
 
+# R1D12. 
 
++ hoy llore de frustracion , siento que me esta costando mucho. 
++ pero no lo voy a dejar, voy en la mitad del bootcamp y eso es lo que me pone nerviosa. 
++ quisiera tener mas contacto con gente que esta en las misma que yo. 
+
+# R1D13. 
+
++ hoy comenzamos con react, se que es algo que tengo que aprender mas a profundidad y es por eso que vi videos de yt para complementar la materia. 
++ el proyecto de hoy al comienzo se me hizo muy dificil porque no sabia como comenza, pero una vez que se va armando ya me gusta mas. 
++ aunque hoy ocupe mucho menos el chatgpt,  sigo sintiendo que hago trampa ya que reutilizo mi propio codigo de ejercicios anteriores para solamente editarlo.  
++ espero algun dia ser lo suficientemente pro para reirme de esto y felicitarme por mi esfuerzo :)
 
 
