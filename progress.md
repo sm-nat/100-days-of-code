@@ -68,7 +68,23 @@ siento que entiendo la logica de los loops pero cuando tengo que comenzar uno me
 + hoy hice un proyecto para el bootcamp se llama el generador de cartas random, le estoy tomando agilidad a la cosa.  
 + y sigo con los ejercicios de freecodecamp. 
 
-###### LO VOY A LOGRAR!!
+###### LO VOY A LOGRAR!!  
+
+# R1D9. 
+
++ he de ser honesta... deje de lado mi log del challange 😣 pero no he dejado de programar. 
++ ultimamente se me ha hecho dificil y frustrante pero no me he dado por vencida. 
++ el DOM se m complica pero con vdeos de yt lo he ido aprendiendo mejor. 
+
+# R1D10
+
++ siento que hago trampa en mi aprendizaje, logro sacar adelante ls proyectos pero con. mucha ayuda de chatgpt, no me siento orgullosa de eso pero sino me quedo en blanco y me retraso con. la materia
+
+# R1D11. 
+
++ continuo con js creo que las funciones y bucles ya las manejo, pero no suelto el chatgpt para que me guie, comenzare a soltarlo de a poco. 
+
+
 
 
 
