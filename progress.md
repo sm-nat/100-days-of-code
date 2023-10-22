@@ -96,6 +96,22 @@ siento que entiendo la logica de los loops pero cuando tengo que comenzar uno me
 + hoy comenzamos con react, se que es algo que tengo que aprender mas a profundidad y es por eso que vi videos de yt para complementar la materia. 
 + el proyecto de hoy al comienzo se me hizo muy dificil porque no sabia como comenza, pero una vez que se va armando ya me gusta mas. 
 + aunque hoy ocupe mucho menos el chatgpt,  sigo sintiendo que hago trampa ya que reutilizo mi propio codigo de ejercicios anteriores para solamente editarlo.  
-+ espero algun dia ser lo suficientemente pro para reirme de esto y felicitarme por mi esfuerzo :)
++ espero algun dia ser lo suficientemente pro para reirme de esto y felicitarme por mi esfuerzo :). 
+
+# 1D14. 
+
++ continuo con react en el bootcamp, cada dia lo entiendo un poco mas aunque sigo sin integrarlo completamente a mi logica. 
++ quisiera que aprender se me diera mas facil. 
+
+# R1D15. 
+
++ react, react, react
++ termine un proyecto en el que estuve 9 horas, todo el dia buscando y copiando codigo par PRObar, me sientonimpostora xq consulto mucho al chat pero igual voy aprendiendo. 
+
+# R1D16.
+
+ + hoy hable con el profe sobre como me siento y me dijo que es normal es el sindrome del impostor
+ + no escribi mucho codigo hoy, estoy desmotivada porque siento que se me esta haciendo muy dificil y mi aprendizaje esta lento. no me voy a rendir. 
+ + ñn es otro dia y si voy a ponerle mas ganas
 
 
