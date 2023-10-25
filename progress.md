@@ -120,4 +120,9 @@ siento que entiendo la logica de los loops pero cuando tengo que comenzar uno me
   + sigo aprendiendo React
   + voy un poco atrasada con los proyectos,pero los estoy sacando
 
+  # R1D18
+
+  + se que tengo el sindrome del impostor, es por eso que decidi tomarme descansos programados entre los proyectos para darme premios cuando avanzo
+  + programar es dificil, son muchas las opciones que hay de hacer las cosas y yo prefiero ir guiandome por algo ya definido,pero esta bien, en internet hay respuesta para todo
+
 
