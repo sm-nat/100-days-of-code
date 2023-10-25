@@ -112,6 +112,12 @@ siento que entiendo la logica de los loops pero cuando tengo que comenzar uno me
 
  + hoy hable con el profe sobre como me siento y me dijo que es normal es el sindrome del impostor
  + no escribi mucho codigo hoy, estoy desmotivada porque siento que se me esta haciendo muy dificil y mi aprendizaje esta lento. no me voy a rendir. 
- + ñn es otro dia y si voy a ponerle mas ganas
+ + ñn es otro dia y si voy a ponerle mas ganas. 
+
+ # R1D17. 
+
+  + estoy escribiendo esto dias arasada porque siempre lo dejo para el ultimo y despues lo olvido, pero no he dejado de practicar todos los dias. 
+  + sigo aprendiendo React
+  + voy un poco atrasada con los proyectos,pero los estoy sacando
 
 
